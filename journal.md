@@ -4,3 +4,7 @@ Git example story for version control
 # Author
 Aaron English
 
+# Intrduction
+Example of how to use Git and Version control run by Research IT at the University of Manchester.
+The course is presented by Gerard Capes. 
+This course it pretty useful so far.
