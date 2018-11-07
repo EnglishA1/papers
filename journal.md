@@ -30,4 +30,8 @@ all wnet well
 banging results
 pay me money
 
+# Figures
+Lots of pretty pictures.
+such figure. much pretty. very results. wow
+
 
