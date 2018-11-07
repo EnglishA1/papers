@@ -15,3 +15,6 @@ This course is pretty good so far, and comes with a cheat sheet (Github 2018).
 John has added soem experimental features to this course.
 ignoring and tagging will very useful.
 
+# Methodology
+Github Blah blah blah blah SPH blah blah I hate coding Blah blah blah
+

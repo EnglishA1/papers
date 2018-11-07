@@ -3,3 +3,5 @@ Capes G. 2018 Introduction to Git and Version Control
 GitHub 2018 Github Cheat Sheet
 
 Strong Reference 2018 This is a strong reference
+
+Another referecne but not quite as strong
