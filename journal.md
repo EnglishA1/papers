@@ -6,6 +6,10 @@ Examples of Git Usage and Version Control, with experimental additions.
 Aaron English
 John Smith
 
+# Abstract
+I hate writing these as its hard as balls
+chat shit get hammed
+
 # Intrduction
 Example of how to use Git and Version control run by Research IT at the University of Manchester.
 The course is presented by Gerard Capes (Capes G 2018). 
