@@ -3,8 +3,8 @@ Examples of Git Usage and Version Control, with experimental additions.
 
 
 # Author
-Aaron English
-John Smith
+Aaron English, University of Manchester
+John Smith, University of Somewhere
 
 # Abstract
 I hate writing these as its hard as balls
