@@ -1,8 +1,9 @@
 # Title
-Git example story for version control
+Git example story for version control, with experimental additions.
 
 # Author
 Aaron English
+John Smith
 
 # Intrduction
 Example of how to use Git and Version control run by Research IT at the University of Manchester.
